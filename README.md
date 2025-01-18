@@ -51,22 +51,6 @@
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
 </p>
-
----
-
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qt" width="40" height="40"/> </a> 
-</p>
-
----
-
-<h3 align="left">Following:</h3>
-<p align="left">
-<a href="https://github.com/BirjuVachhani" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/username?v=4" alt="Birju Vachhani" height="30" width="30" /> Birju Vachhani</a>
-</p>
-
 ---
 
 <p align="center">
